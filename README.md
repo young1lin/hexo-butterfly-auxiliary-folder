@@ -1,2 +1,5 @@
-# hexo-butterfly-auxiliary-folder
-hexo butterfly主题辅助文件夹
+# 这是hexo butterfly主题辅助文件夹
+
+把这个文件夹剪切到 `/blog/source/`文件夹下就好了。
+
+里面有些 `URL`使得网页加载很慢，不加载也不影响网页，我就注释掉了
